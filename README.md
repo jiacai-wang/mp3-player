@@ -3,4 +3,4 @@ c语言编写的mp3播放器。播放功能调用Windows提供的mciSendString�
 
 为什么很费力？因为是c语言：）
 
-<del>playinterface.c难道不是培训老师从网上copy下来的？</del>
+<small><del>playinterface.c难道不是培训老师从网上copy下来的？</del></small>
